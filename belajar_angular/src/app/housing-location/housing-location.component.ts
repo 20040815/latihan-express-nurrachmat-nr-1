@@ -19,3 +19,4 @@ import { RouterModule } from '@angular/router';
 export class HousingLocationComponent {
   @Input() housingLocation!: HousingLocation
 }
+
